@@ -2,4 +2,4 @@ dns_rip_cmcc
 dns_rip_ctcc
 autopush_cmcc
 autopush_ctcc
-tmp/
+#tmp/
