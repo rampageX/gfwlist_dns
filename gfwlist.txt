@@ -986,7 +986,6 @@ clinica-tibet.ru
 clipfish.de
 clips4sale.com
 cloakpoint.com
-cloud.feedly.com
 cloud.mail.ru
 club1069.com
 clyp.it
@@ -1101,6 +1100,7 @@ ctfriend.net
 cthlo.github.io
 ctitv.com.tw
 cts.com.tw
+ctwant.com
 cuhkacs.org
 cuihua.org
 cuiweiping.net
@@ -1603,6 +1603,7 @@ fdc64.de
 fdc64.org
 fdc89.jp
 feedburner.com
+feedly.com
 feeds.fileforum.com
 feedx.net
 feelssh.com
@@ -1912,6 +1913,7 @@ gmll.org
 gmodules.com
 gmozomg.izihost.org
 gnci.org.hk
+gnews.org
 go-pki.com
 go.nesnode.com
 go141.com
@@ -3074,6 +3076,7 @@ meirixiaochao.com
 meltoday.com
 meme.yahoo.com
 memehk.com
+memes.tw
 memorybbs.com
 memri.org
 memrijttm.org
@@ -4996,6 +4999,7 @@ uyghurstudies.org
 uygur.fc2web.com
 uygur.org
 uymaarip.com
+v2mm.tech
 v2ray.com
 van001.com
 van698.com
