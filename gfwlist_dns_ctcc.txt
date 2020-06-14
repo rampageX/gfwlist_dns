@@ -244,6 +244,7 @@ btc98.com
 btctrade.im
 btspread.com
 buffered.com
+bullog.org
 businessinsider.com
 businesstoday.com.tw
 buzzorange.com
@@ -369,6 +370,7 @@ creaders.net
 crossvpn.net
 ct.org.tw
 cts.com.tw
+ctwant.com
 cumlouder.com
 cw.com.tw
 cyberghost.natado.com
@@ -526,7 +528,9 @@ fastssh.com
 fatbtc.com
 fawanghuihui.org
 fc2cn.com
+fdc64.de
 fdc64.org
+feedly.com
 feedx.net
 feelssh.com
 feifeiss.com
@@ -617,6 +621,7 @@ globalrescue.net
 globalvoices.org
 globalvpn.net
 glorystar.me
+gnews.org
 go.nesnode.com
 goagentplus.com
 godfootsteps.org
@@ -1066,6 +1071,7 @@ me.me
 medium.com
 mega.nz
 megaproxy.com
+memes.tw
 memri.org
 mercatox.com
 metart.com
@@ -1190,12 +1196,14 @@ opendemocracy.net
 opendn.xyz
 openervpn.in
 openvpn.net
+opml.radiotime.com
 organcare.org.tw
 organharvestinvestigation.net
 orientaldaily.com.my
 otcbtc.com
 oursogo.com
 oursteps.com.au
+ourtv.hk
 overplay.net
 oversea.istarshine.com
 ozvoice.org
@@ -1659,6 +1667,7 @@ uyghur-j.org
 uyghuramerican.org
 uyghurcongress.org
 uyghurpress.com
+v2mm.tech
 v2ray.com
 vansky.com
 vaticannews.va
