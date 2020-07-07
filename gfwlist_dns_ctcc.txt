@@ -1034,6 +1034,7 @@ liaowangxizang.net
 lighti.me
 lightyearvpn.com
 lihkg.com
+limbopro.github.io
 line-apps.com
 line.me
 line.naver.jp
@@ -1183,6 +1184,7 @@ nytchina.com
 nytimes.com
 nytimes.map.fastly.net
 observechina.net
+occupytiananmen.com
 oex.com
 ogate.org
 ok.ru
@@ -1192,6 +1194,7 @@ omni7.jp
 omnitalk.com
 onedrive.live.com
 onejav.com
+onionhacker.github.io
 onmypc.biz
 open.com.hk
 opendemocracy.net
@@ -1313,6 +1316,7 @@ raidcall.com.tw
 rakuten.co.jp
 rangzen.org
 ranyunfei.com
+rapbull.net
 rapidvpn.com
 rarbgprx.org
 rawgit.com
@@ -1522,6 +1526,7 @@ thumbzilla.com
 tiananmenuniv.com
 tiandixing.org
 tiantibooks.org
+tibet-foundation.org
 tibet-house-trust.co.uk
 tibet.at
 tibet.ca
@@ -1549,6 +1554,7 @@ tibetjustice.org
 tibetkomite.dk
 tibetmuseum.org
 tibetnetwork.org
+tibetoffice.ch
 tibetoffice.com.au
 tibetoffice.eu
 tibetoffice.org

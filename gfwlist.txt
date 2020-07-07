@@ -428,7 +428,6 @@ bbs.kimy.com.tw
 bbs.mikocon.com
 bbs.morbell.com
 bbs.mychat.to
-bbs.netbig.com
 bbs.ozchinese.com
 bbs.qmzdd.com
 bbs.sina.com
@@ -650,7 +649,6 @@ boardreader.com
 bod.asia
 bodog88.com
 bolehvpn.net
-bolin.netfirms.com
 bonbonme.com
 bonfoundation.org
 bongacams.com
@@ -1890,7 +1888,6 @@ gigporno.ru
 girlbanker.com
 gist.github.com
 git.io
-github.com
 gizlen.net
 gjczz.com
 glass8.eu
@@ -2742,7 +2739,6 @@ journalchretien.net
 journalofdemocracy.org
 joymiihub.com
 joyourself.com
-jpl.nasa.gov
 jpopforum.net
 jtvnw.net
 jubushoushen.com
@@ -2916,6 +2912,7 @@ lightnovel.cn
 lightyearvpn.com
 lihkg.com
 like.com
+limbopro.github.io
 limiao.net
 line-apps.com
 line-scdn.net
@@ -3289,8 +3286,6 @@ mytalkbox.com
 mytizi.com
 mywww.biz
 myz.info
-naacoalition.org
-naiadsystems.com
 naitik.net
 nakido.com
 nakuz.com
@@ -3298,10 +3293,7 @@ nalandabodhi.org
 nalandawest.org
 namgyal.org
 namgyalmonastery.org
-namsisi.com
-nanyang.com
 nanyangpost.com
-nanzao.com
 naol.ca
 naol.cc
 nat.gov.tw
@@ -3314,19 +3306,12 @@ navyfamily.navy.mil
 navyreserve.navy.mil
 naweeklytimes.com
 nbtvpn.com
-nccwatch.org.tw
-nch.com.tw
 nchrd.org
 ncn.org
-nde.de
 ndr.de
 ned.org
-nekoslovakia.net
 nemesis2.qx.net
-nepusoku.com
-net-fits.pro
 netbirds.com
-netcolony.com
 netflix.com
 netme.cc
 netsneak.com
@@ -3350,7 +3335,6 @@ news.hkpeanut.com
 news.msn.com.tw
 news.nationalgeographic.com
 news.now.com
-news.now.com%2Fhome
 news.omy.sg
 news.seehua.com
 news.sina.com.hk
@@ -3463,7 +3447,6 @@ nurgo-software.com
 nutaku.net
 nuuvem.com
 nuvid.com
-nuzcom.com
 nvdst.com
 nvquan.org
 nvtongzhisheng.org
@@ -3511,7 +3494,6 @@ okex.com
 okk.tw
 old-cat.net
 old.honeynet.org
-old.nabble.com
 olumpo.com
 olympicwatch.org
 omgili.com
@@ -3524,6 +3506,7 @@ onedrive.live.com
 onedumb.com
 onejav.com
 onion.city
+onionhacker.github.io
 online.recoveryversion.org
 onlinecha.com
 onlineyoutube.com
@@ -5335,6 +5318,7 @@ www.dwheeler.com
 www.eastturkistan.net
 www.gmiddle.com
 www.gmiddle.net
+www.gmll.org
 www.idlcoyote.com
 www.imdb.com
 www.kindleren.com
