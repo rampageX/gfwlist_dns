@@ -1005,7 +1005,6 @@ cn.sandscotaicentral.com
 cn.shafaqna.com
 cn.streetvoice.com
 cn.thegay.com
-cn.uncyclopedia.wikia.com
 cn.uptodown.com
 cn.voa.mobi
 cn2.streetvoice.com
@@ -1306,6 +1305,7 @@ dreamamateurs.com
 drepung.org
 drgan.net
 drmingxia.org
+dronedj.com
 dropbooks.tv
 dropbox.com
 dropboxusercontent.com
@@ -1409,6 +1409,7 @@ eireinikotaerukai.com
 eisbb.com
 eksisozluk.com
 electionsmeter.com
+electrek.co
 elgoog.im
 ellawine.org
 elpais.com
@@ -1490,7 +1491,6 @@ eucasino.com
 eulam.com
 eurekavpt.com
 euronews.com
-evchk.wikia.com
 evschool.net
 exblog.jp
 exchristian.hk
@@ -1690,7 +1690,6 @@ fpmt-osel.org
 fpmt.org
 fpmt.tw
 fpmtmexico.org
-fq.wikia.com
 fqok.org
 fqrouter.com
 franklc.com
@@ -2820,6 +2819,7 @@ kk-whys.co.jp
 kkbox.com
 kmuh.org.tw
 knowledgerush.com
+knowyourmeme.com
 kobo.com
 kobobooks.com
 kodingen.com
@@ -3060,6 +3060,7 @@ media.org.hk
 mediachinese.com
 mediafire.com
 mediafreakcity.com
+mediawiki.org
 medium.com
 meetav.com
 meetup.com
@@ -3683,6 +3684,7 @@ pixnet.net
 pk.com
 pki.goog
 placemix.com
+play-asia.com
 playboy.com
 playboyplus.com
 player.fm
@@ -3966,6 +3968,7 @@ rti.org.tw
 rtycminnesota.org
 ruanyifeng.com
 rukor.org
+rule34.xxx
 runbtx.com
 rushbee.com
 ruten.com.tw
@@ -4946,6 +4949,7 @@ uptodown.com
 upwill.org
 ur7s.com
 uraban.me
+urbandictionary.com
 urbansurvival.com
 urchin.com
 urlborg.com
@@ -5116,6 +5120,7 @@ vtunnel.com
 vuku.cc
 vultryhw.com
 w.idaiwan.com
+w.wiki
 w3schools.com
 waffle1999.com
 wahas.com
@@ -5227,7 +5232,9 @@ wiki.kfd.me
 wiki.moegirl.org
 wiki.oauth.net
 wiki.phonegap.com
-wikileaks-forum.com
+wikia.com
+wikibooks.org
+wikidata.org
 wikileaks.ch
 wikileaks.com
 wikileaks.de
@@ -5237,9 +5244,16 @@ wikileaks.org
 wikileaks.pl
 wikilivres.info
 wikimapia.org
+wikimedia.org
+wikinews.org
 wikipedia.org
+wikiquote.org
+wikisource.org
+wikiversity.org
+wikivoyage.org
 wikiwand.com
 wikiwiki.jp
+wiktionary.org
 wildammo.com
 williamhill.com
 willw.net
@@ -5537,11 +5551,7 @@ zfreet.com
 zgsddh.com
 zgzcjj.net
 zh.bitterwinter.org
-zh.ecdm.wikia.com
 zh.pokerstrategy.com
-zh.pttpedia.wikia.com
-zh.uncyclopedia.wikia.com
-zh.wikinews.org
 zhanbin.net
 zhangboli.net
 zhangtianliang.com
@@ -5593,3 +5603,4 @@ zyzc9.com
 zzcartoon.com
 zzcloud.me
 zzux.com
+|wikileaks-forum.com

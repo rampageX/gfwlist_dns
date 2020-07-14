@@ -10,10 +10,12 @@
 1989report.hkja.org.hk
 2049bbs.xyz
 233abc.com
+3-a.net
 3proxy.ru
 43110.cf
 4everproxy.com
 4shared.com
+5278.cc
 64tianwang.com
 66.ca
 6park.com
@@ -211,6 +213,7 @@ breakingtweets.com
 breakwall.net
 briian.com
 broadbook.com
+bt95.com
 btc98.com
 btctrade.im
 btspread.com
@@ -299,6 +302,7 @@ chrlawyers.hk
 chromercise.com
 cienen.com
 citizencn.com
+civicparty.hk
 civilhrfront.org
 civilmedia.tw
 ck101.com
@@ -322,12 +326,14 @@ cn.shafaqna.com
 cn.thegay.com
 cn.uptodown.com
 cna.com.tw
+cnbbnews.wordpress.com
 cnineu.com
 cnnews.chosun.com
 cnproxy.com
 cobinhood.com
 cochina.co
 cochina.org
+coin2co.in
 coinbene.com
 coinegg.com
 coingi.com
@@ -345,6 +351,7 @@ crazyshit.com
 crd-net.org
 creaders.net
 crossvpn.net
+ct.org.tw
 cts.com.tw
 ctwant.com
 cumlouder.com
@@ -361,6 +368,7 @@ dabr.mobi
 dafabet.com
 dafahao.com
 dafoh.org
+dailymotion.com
 dailyview.tw
 dajiyuan.eu
 dalailama.com
@@ -371,6 +379,7 @@ dalailamajapanese.com
 dalailamaprotesters.info
 dalianmeng.org
 daliulian.org
+danbooru.donmai.us
 dastrassi.org
 dcard.tw
 ddc.com.tw
@@ -418,6 +427,7 @@ duyaoss.com
 dw.com
 dwnews.com
 dyndns-ip.com
+dynu.com
 e-hentai.org
 e123.hk
 earthcam.com
@@ -429,6 +439,7 @@ eastturkistangovernmentinexile.us
 ebook.hyread.com.tw
 ebtcbank.com
 echofon.com
+ecimg.tw
 economist.com
 edoors.com
 eevpn.com
@@ -493,6 +504,7 @@ fan-qiang.com
 fangeqiang.com
 fangong.org
 fangongheike.com
+fanqiang.network
 fanqiangdang.com
 fanqianghou.com
 fanqiangzhe.com
@@ -899,6 +911,7 @@ hutong9.net
 hxwk.org
 hxwq.org
 i-cable.com
+i1.hk
 iask.ca
 iblist.com
 ibvpn.com
@@ -1024,6 +1037,7 @@ letscorp.net
 lhasocialwork.org
 liangzhichuanmei.com
 liaowangxizang.net
+library.usc.cuhk.edu.hk
 lighti.me
 lightyearvpn.com
 lihkg.com
@@ -1183,6 +1197,7 @@ ny.visiontimes.com
 nyaa.si
 nytchina.com
 nytimes.com
+nytimes.map.fastly.net
 nzchinese.com
 observechina.net
 occupytiananmen.com
@@ -1243,12 +1258,18 @@ phayul.com
 picacomic.com
 pin-cong.com
 pincong.rocks
+pinterest.at
 pinterest.ca
+pinterest.co.uk
+pinterest.de
 pinterest.fr
+pinterest.jp
 pinterest.se
 pixiv.net
 pixnet.net
+play-asia.com
 player.fm
+plunder.com
 plurk.com
 pokerstars.com
 politiscales.net
@@ -1259,6 +1280,7 @@ popyard.org
 porn.com
 pornerbros.com
 pornhd.com
+pornhub.com
 pornhubpremium.com
 porntube.com
 post76.com
@@ -1354,6 +1376,7 @@ rsf.org
 rthk.hk
 rthklive2-lh.akamaihd.net
 rti.org.tw
+rule34.xxx
 ruten.com.tw
 rutube.ru
 s-dragon.org
@@ -1439,6 +1462,7 @@ soundcloud.com
 soundofhope.org
 spaces.hightail.com
 spankbang.com
+spankwire.com
 speakerdeck.com
 speedify.com
 spicevpn.com
@@ -1622,6 +1646,7 @@ tuo8.red
 tuo8.space
 turbobit.net
 turbohide.com
+turntable.fm
 tuvpn.com
 tvboxnow.com
 tvmost.com.hk
@@ -1681,6 +1706,7 @@ upornia.com
 uproxy.org
 uptodown.com
 uraban.me
+urbandictionary.com
 usaip.eu
 ustream.tv
 usus.cc
@@ -1820,6 +1846,7 @@ xbtce.com
 xcafe.in
 xcity.jp
 xerotica.com
+xhamster.com
 xiaolan.me
 xijie.wordpress.com
 xinsheng.net
