@@ -38,6 +38,7 @@
 4irc.com
 4mydomain.com
 4shared.com
+5278.cc
 64tianwang.com
 66.ca
 6park.com
@@ -1008,6 +1009,7 @@ kink.com
 kinokuniya.com
 kissjav.com
 kkbox.com
+knowyourmeme.com
 kobo.com
 kobobooks.com
 kucoin.com
@@ -1253,6 +1255,7 @@ pinterest.jp
 pinterest.se
 pixiv.net
 pixnet.net
+play-asia.com
 player.fm
 plurk.com
 pokerstars.com
@@ -1355,6 +1358,7 @@ rsf.org
 rthk.hk
 rthklive2-lh.akamaihd.net
 rti.org.tw
+rule34.xxx
 ruten.com.tw
 rutube.ru
 s1s1s1.com
@@ -1666,6 +1670,7 @@ upornia.com
 uproxy.org
 uptodown.com
 uraban.me
+urbandictionary.com
 usaip.eu
 ustream.tv
 utopianpal.com
