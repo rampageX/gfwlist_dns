@@ -173,6 +173,7 @@ blog.daum.net
 blog.fuckgfw233.org
 blog.goo.ne.jp
 blog.inoreader.com
+blog.xuite.net
 blogdns.org
 blogger.com
 bloglovin.com
@@ -381,6 +382,7 @@ dalianmeng.org
 daliulian.org
 danbooru.donmai.us
 dastrassi.org
+daum.net
 dcard.tw
 ddc.com.tw
 ddns.ms
@@ -484,6 +486,7 @@ exx.com
 eyny.com
 faceless.me
 facesoftibetanselfimmolators.info
+fakku.net
 falsefire.com
 falun-co.org
 falun-ny.net
@@ -578,6 +581,7 @@ ftchinese.com
 ftv.com.tw
 fuckgfw.org
 fulione.com
+fuq.com
 furl.net
 fux.com
 fxcm-chinese.com
@@ -828,6 +832,7 @@ h-china.org
 hacg.red
 hahaxixi.github.io
 hanime.tv
+hanunyi.com
 hao.news
 haoel.github.io
 harunyahya.com
@@ -842,6 +847,7 @@ heqinglian.net
 heungkongdiscuss.com
 hexieshe.com
 hexieshe.xyz
+hhdcb3office.org
 hidden-advent.org
 hide.me
 hidein.net
@@ -1042,6 +1048,7 @@ lighti.me
 lightyearvpn.com
 lihkg.com
 limbopro.github.io
+limiao.net
 line-apps.com
 line.me
 line.naver.jp
@@ -1106,6 +1113,7 @@ mingpaomonthly.com
 minhhue.net
 mirrorbooks.com
 mitbbs.com
+mjlsh.usc.cuhk.edu.hk
 mlzs.work
 mnewstv.com
 mobile01.com
@@ -1233,6 +1241,7 @@ panamapapers.sueddeutsche.de
 pandapow.co
 pandapow.net
 pandavpn-jp.com
+pandora.tv
 panoramio.com
 pao-pao.net
 paperb.us
@@ -1538,6 +1547,7 @@ tenacy.com
 terminus2049.github.io
 tew.org
 textnow.me
+tgstat.com
 thebobs.com
 theguardian.com
 theinitium.com
@@ -1611,6 +1621,7 @@ tnaflix.com
 tngrnow.com
 tnp.org
 togetter.com
+tonyyan.net
 top10vpn.com
 top81.ws
 topbtc.com
@@ -1827,6 +1838,7 @@ worldcat.org
 worldjournal.com
 worldvpn.net
 wow-life.net
+wowgirls.com
 woyaolian.org
 wrchina.org
 wsgzao.github.io
