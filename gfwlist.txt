@@ -2140,6 +2140,7 @@ google.tt
 google.vg
 google.vu
 google.ws
+googleanalytics.com
 googleapis.com
 googleapps.com
 googlearth.com
@@ -2166,6 +2167,7 @@ googleplus.com
 googlescholar.com
 googlesile.com
 googlesource.com
+googlesyndication.com
 googleusercontent.com
 googlevideo.com
 googleweblight.com
@@ -2579,6 +2581,7 @@ initiativesforchina.org
 inkui.com
 inmediahk.net
 innermongolia.org
+inoreader.com
 inote.tw
 insecam.org
 insidevoa.com
@@ -4669,6 +4672,7 @@ tpi.org.tw
 tracfone.com
 traffichaus.com
 transparency.org
+travelinkcard.com
 treemall.com.tw
 trendsmap.com
 trialofccp.org
