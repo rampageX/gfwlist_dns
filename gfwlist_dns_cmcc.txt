@@ -53,6 +53,7 @@ almasdarnews.com
 alphaporno.com
 alwaysvpn.com
 am730.com.hk
+amazon.co.jp
 ameba.jp
 amnesty.org
 amnesty.org.hk
@@ -173,6 +174,8 @@ blog.daum.net
 blog.fuckgfw233.org
 blog.goo.ne.jp
 blog.inoreader.com
+blog.workflow.is
+blog.xuite.net
 blogdns.org
 blogger.com
 bloglovin.com
@@ -217,6 +220,7 @@ bt95.com
 btc98.com
 btctrade.im
 btspread.com
+btsynckeys.com
 buffered.com
 bullog.org
 businessinsider.com
@@ -381,6 +385,7 @@ dalianmeng.org
 daliulian.org
 danbooru.donmai.us
 dastrassi.org
+daum.net
 dcard.tw
 ddc.com.tw
 ddns.ms
@@ -393,6 +398,7 @@ dharamsalanet.com
 dhcp.biz
 dictionary.goo.ne.jp
 difangwenge.org
+dipity.com
 discoins.com
 disconnect.me
 discordapp.com
@@ -472,9 +478,11 @@ erights.net
 erktv.com
 esmtp.biz
 etherdelta.com
+etizer.org
 eulam.com
 eurekavpt.com
 euronews.com
+evchk.wikia.org
 exmo.com
 expecthim.com
 expressvpn.com
@@ -484,6 +492,7 @@ exx.com
 eyny.com
 faceless.me
 facesoftibetanselfimmolators.info
+fakku.net
 falsefire.com
 falun-co.org
 falun-ny.net
@@ -501,6 +510,7 @@ faluninfo.net
 falunpilipinas.net
 famunion.com
 fan-qiang.com
+fangeming.com
 fangeqiang.com
 fangong.org
 fangongheike.com
@@ -578,6 +588,7 @@ ftchinese.com
 ftv.com.tw
 fuckgfw.org
 fulione.com
+fuq.com
 furl.net
 fux.com
 fxcm-chinese.com
@@ -828,6 +839,7 @@ h-china.org
 hacg.red
 hahaxixi.github.io
 hanime.tv
+hanunyi.com
 hao.news
 haoel.github.io
 harunyahya.com
@@ -838,10 +850,12 @@ hd.stheadline.com
 hdlt.me
 hdzog.com
 heavy-r.com
+hecaitou.net
 heqinglian.net
 heungkongdiscuss.com
 hexieshe.com
 hexieshe.xyz
+hhdcb3office.org
 hidden-advent.org
 hide.me
 hidein.net
@@ -884,6 +898,7 @@ hongzhi.li
 hootsuite.com
 hopedialogue.org
 hotspotshield.com
+hottg.com
 hotvpn.com
 hoxx.com
 hqcdp.org
@@ -954,6 +969,7 @@ itsaol.com
 itshidden.com
 iuhrdf.org
 ivacy.com
+iverycd.com
 ivpn.net
 ixquick.com
 ixxx.com
@@ -1012,6 +1028,7 @@ kink.com
 kinokuniya.com
 kissjav.com
 kkbox.com
+knowyourmeme.com
 kobo.com
 kobobooks.com
 kucoin.com
@@ -1042,6 +1059,7 @@ lighti.me
 lightyearvpn.com
 lihkg.com
 limbopro.github.io
+limiao.net
 line-apps.com
 line.me
 line.naver.jp
@@ -1106,9 +1124,11 @@ mingpaomonthly.com
 minhhue.net
 mirrorbooks.com
 mitbbs.com
+mjlsh.usc.cuhk.edu.hk
 mlzs.work
 mnewstv.com
 mobile01.com
+moeerolibrary.com
 mofos.com
 mohu.club
 mohu.ml
@@ -1233,6 +1253,7 @@ panamapapers.sueddeutsche.de
 pandapow.co
 pandapow.net
 pandavpn-jp.com
+pandora.tv
 panoramio.com
 pao-pao.net
 paperb.us
@@ -1507,6 +1528,7 @@ superfreevpn.com
 supervpn.net
 suprememastertv.com
 surfeasy.com
+suyangg.com
 svsfx.com
 swissinfo.ch
 swissvpn.net
@@ -1538,6 +1560,7 @@ tenacy.com
 terminus2049.github.io
 tew.org
 textnow.me
+tgstat.com
 thebobs.com
 theguardian.com
 theinitium.com
@@ -1611,6 +1634,7 @@ tnaflix.com
 tngrnow.com
 tnp.org
 togetter.com
+tonyyan.net
 top10vpn.com
 top81.ws
 topbtc.com
@@ -1634,6 +1658,7 @@ tube8.com
 tubewolf.com
 tuibeitu.net
 tuidang.org
+tumblr.com
 tumview.com
 tunnelbear.com
 tunnelr.com
@@ -1659,6 +1684,7 @@ tw.money.yahoo.com
 tw.news.yahoo.com
 tw.yahoo.com
 tweepmag.com
+tweetphoto.com
 tweettunnel.com
 twelve.today
 twgreatdaily.com
@@ -1827,6 +1853,7 @@ worldcat.org
 worldjournal.com
 worldvpn.net
 wow-life.net
+wowgirls.com
 woyaolian.org
 wrchina.org
 wsgzao.github.io
@@ -1841,6 +1868,7 @@ www.kindleren.com
 www.owind.com
 www.thechinastory.org
 www.wangruowang.org
+www1.american.edu
 x-berry.com
 xbtce.com
 xcafe.in
