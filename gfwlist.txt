@@ -1046,7 +1046,6 @@ community.windy.com
 communitychoicecu.com
 compileheart.com
 compress.to
-connect.facebook.net
 conoha.jp
 contactmagazine.net
 contests.twilio.com
@@ -1514,6 +1513,7 @@ facebook.com
 facebook.design
 facebook.hu
 facebook.in
+facebook.net
 facebook.nl
 facebook.se
 facebookmail.com
@@ -2148,6 +2148,7 @@ googleartproject.com
 googleblog.com
 googlebot.com
 googlechinawebmaster.com
+googlechrome.github.io
 googlecode.com
 googlecommerce.com
 googledomains.com
@@ -3436,12 +3437,12 @@ nvquan.org
 nvtongzhisheng.org
 nwtca.org
 ny.stgloballink.com
-ny.visiontimes.com
 nyaa.eu
 nyaa.si
 nydus.ca
 nylon-angel.com
 nylonstockingsonline.com
+nypost.com
 nyt.com
 nytchina.com
 nytcn.me
@@ -3930,6 +3931,7 @@ roadshow.hk
 roboforex.com
 robustnessiskey.com
 rocket-inc.net
+rocketcdn.me
 rocksdb.org
 rojo.com
 rolia.net
@@ -4149,6 +4151,7 @@ skybet.com
 skyking.com.tw
 skyvegas.com
 skyxvpn.com
+sl-reverse.com
 slaytizle.com
 sleazydream.com
 slheng.com
