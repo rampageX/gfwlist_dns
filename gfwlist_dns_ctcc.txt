@@ -237,6 +237,7 @@ bowenpress.com
 boxpn.com
 boxun.com
 boyfriendtv.com
+bravotube.net
 breakgfw.com
 breaking911.com
 breakwall.net
@@ -390,6 +391,7 @@ dabr.mobi
 dafabet.com
 dafahao.com
 dafoh.org
+dailymail.co.uk
 dailymotion.com
 dailyview.tw
 dajiyuan.eu
@@ -1155,6 +1157,7 @@ news.hkpeanut.com
 news.now.com
 news.now.com%2Fhome
 news.sina.com.hk
+news.sinchew.com.my
 news.tvbs.com.tw
 newschinacomment.org
 newstapa.org
@@ -1413,11 +1416,13 @@ shellfire.de
 shenyun.com
 shenyunperformingarts.org
 shenzhoufilm.com
+shooshtime.com
 shwchurch.org
 sijihuisuo.club
 sijihuisuo.com
 sikaozhe1997.github.io
 silkbook.com
+sinchew.com.my
 singfortibet.com
 singpao.com.hk
 sinoquebec.com
@@ -1475,10 +1480,12 @@ steganos.com
 steganos.net
 stepchina.com
 sthoo.com
+stileproject.com
 storify.com
 storm.mg
 strongvpn.com
 studentsforafreetibet.org
+stweetly.com
 sujiatun.wordpress.com
 sukebei.nyaa.si
 sulian.me
