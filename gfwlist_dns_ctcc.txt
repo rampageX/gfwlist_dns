@@ -23,6 +23,7 @@
 21sextury.com
 228.net.tw
 233abc.com
+233v2.com
 24hrs.ca
 24smile.org
 3-a.net
@@ -1095,6 +1096,7 @@ megaproxy.com
 memes.tw
 memri.org
 mercatox.com
+merlinblog.xyz
 metart.com
 metarthunter.com
 metroradio.com.hk
@@ -1192,6 +1194,7 @@ ntd.tv
 ntdtv.ca
 ntdtv.co.kr
 ntdtv.com
+ntdtv.jp
 ntdtv.ru
 ntdtvla.com
 nutaku.net
@@ -1523,6 +1526,7 @@ talkcc.com
 tanc.org
 tapatalk.com
 tbs-rainbow.org
+tbsec.org
 tbsn.org
 tbsseattle.org
 tchrd.org
@@ -1849,6 +1853,7 @@ yecl.net
 yeeyi.com
 yegle.net
 yes-news.com
+yes123.com.tw
 yesasia.com
 yespornplease.com
 yhcw.net
