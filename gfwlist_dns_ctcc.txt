@@ -414,6 +414,8 @@ ddc.com.tw
 ddns.ms
 demosisto.hk
 depositphotos.com
+deviantart.com
+deviantart.net
 devio.us
 devpn.com
 dharamsalanet.com
@@ -1123,6 +1125,7 @@ mojim.com
 molihua.org
 monocloud.me
 moodyz.com
+mosucloud.site
 motherless.com
 motiyun.com
 movements.org
