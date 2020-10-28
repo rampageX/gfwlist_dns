@@ -3308,6 +3308,7 @@ naughtyamerica.com
 navyfamily.navy.mil
 navyreserve.navy.mil
 naweeklytimes.com
+nbcnews.com
 nbtvpn.com
 nchrd.org
 ncn.org
@@ -3975,6 +3976,7 @@ ruyiseek.com
 rxhj.net
 s-cute.com
 s-dragon.org
+s-nbcnews.com
 s1heng.com
 s1s1s1.com
 s3-ap-northeast-1.amazonaws.com
@@ -4160,6 +4162,7 @@ sixth.biz
 sjrt.org
 sjum.cn
 sketchappsources.com
+skimresources.com
 skimtube.com
 skybet.com
 skyking.com.tw
