@@ -3348,6 +3348,7 @@ news.singtao.ca
 news.tvb.com
 news.tvbs.com.tw
 news.yahoo.com
+news.ycombinator.com
 news100.com.tw
 newsancai.com
 newschinacomment.org
